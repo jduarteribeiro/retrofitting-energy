@@ -1,2 +1,4 @@
-# retrofitting-energy
-Retrofitting in an Energy Management Context
+# EMSfIIoT
+Energy Management Solution for Industrial IoT
+
+Documentação disponível nas pastas dos projetos
