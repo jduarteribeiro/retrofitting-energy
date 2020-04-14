@@ -1,6 +1,10 @@
+.vscode/
 __pycache__/
 config.ini
 Doxyfile
 build/
 html/
 latex/
+
+*.jpg
+*.png
